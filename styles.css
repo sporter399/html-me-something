@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background-color: #800020;
+    
+}
+
+p {
+    font-family: 'Sacramento', cursive;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+.image {
+    padding: 25px 50px 75px 100px;
+  }
+
+  #humans { 
+    background-color: yellow;
+  }
+
