@@ -4,8 +4,20 @@ body {
     
 }
 
+nav {
+    color: black;
+}
+
+
 p {
-    font-family: 'Sacramento', cursive;
+    font-family: 'Heidelberg';
+    font-size: 150%;
+}
+
+b {
+    font-family: 'Heidelberg', sans-serif;
+    color: black;
+    font-size: 150%;
 }
 
 .image {
@@ -22,5 +34,25 @@ p {
 
   #humans { 
     background-color: yellow;
+  }
+
+  /* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
   }
 
